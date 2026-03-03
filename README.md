@@ -7,6 +7,13 @@ Here are my tips for getting the most out of Claude Code, including a custom sta
 [![Demo video thumbnail](assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=hiISl558JGE)
 
 <!-- TOC -->
+## 🌐 Translations
+
+[简体中文](./translations/zh-CN/README.md)
+
+---
+
+
 ## Table of Contents
 
 - [Tip 0: Customize your status line](#tip-0-customize-your-status-line)
