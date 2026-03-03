@@ -14,6 +14,8 @@ Here are my tips for getting the most out of Claude Code, including a custom sta
 ---
 
 
+
+
 ## Table of Contents
 
 - [Tip 0: Customize your status line](#tip-0-customize-your-status-line)
